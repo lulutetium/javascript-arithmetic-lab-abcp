@@ -25,3 +25,7 @@ function dec(a){
 function makeInt(n){
 
 }
+
+function preserveDecimal(n){
+
+}
